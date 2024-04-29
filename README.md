@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! i´m a Venezuelan IT Engineer who loves programming. Currently, i'm focused on frontend web development, but on my way to becoming fullstack. Right now i don't have experience working in startups or anything like that, but I have a lot of motivation to build my own projects as you can see below. I have been fortunate to carry out projects for businesses and institutions that, although they have been my practice, I have been able to charge for them. 
+Contact me! I will be happy to help you with your project
 
 <!--
 **asgoDev/asgodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
